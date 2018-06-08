@@ -31,11 +31,11 @@ jsonSource_AreaSembradadeCaaPaneleraHa2017_1.addFeatures(features_AreaSembradade
                 source:jsonSource_AreaSembradadeCaaPaneleraHa2017_1, 
                 style: style_AreaSembradadeCaaPaneleraHa2017_1,
     title: 'Area Sembrada de Caña Panelera (Ha) -2017<br />\
-    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_0.png" />  600.0 - 8641.9 <br />\
-    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_1.png" />  8641.9 - 16683.7 <br />\
-    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_2.png" />  16683.7 - 24725.6 <br />\
-    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_3.png" />  24725.6 - 32767.4 <br />\
-    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_4.png" />  32767.4 - 40809.3 <br />'
+    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_0.png" />  600 - 8642 <br />\
+    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_1.png" />  8642 - 16684 <br />\
+    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_2.png" />  16684 - 24726 <br />\
+    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_3.png" />  24726 - 32767 <br />\
+    <img src="styles/legend/AreaSembradadeCaaPaneleraHa2017_1_4.png" />  32767 - 40809 <br />'
         });
 
 lyr_LimiteDepartamental_0.setVisible(true);lyr_AreaSembradadeCaaPaneleraHa2017_1.setVisible(true);
